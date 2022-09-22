@@ -1,6 +1,6 @@
 .main_header_area {
     height: 16%;
-    margin: 0% 13% 0% 13%;
+    margin: 0% 11% 0% 11%;
   }
 
   .header_wrapper {
@@ -10,6 +10,8 @@
 
   .header_top {
     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    justify-content: space-between;
   }
 
   .header_bottom_menu {
@@ -25,3 +27,21 @@
     margin-right: 22px;
     transition: all 150ms linear;
   }
+
+  .emailInfo {
+    line-height: 48px;
+    font-size: 15px;
+    color: #fff;
+    opacity: .60;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .45px;
+    margin-left: 5px;
+  }
+
+  .icon_container {
+    position: relative;
+    top: 25%;
+    display: flex;
+    justify-content: space-between;
+  }
+
