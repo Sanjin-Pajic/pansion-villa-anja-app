@@ -1,0 +1,27 @@
+.main_header_area {
+    height: 16%;
+    margin: 0% 13% 0% 13%;
+  }
+
+  .header_wrapper {
+    background: rgba(0, 0, 0, 0.252);
+
+  }
+
+  .header_top {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  }
+
+  .header_bottom_menu {
+  }
+
+  .phoneNumber {
+    line-height: 48px;
+    font-size: 15px;
+    color: #fff;
+    opacity: .60;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .45px;
+    margin-right: 22px;
+    transition: all 150ms linear;
+  }
