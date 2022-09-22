@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .main_header_area {
     height: 16%;
     margin: 0% 11% 0% 11%;
@@ -5,7 +7,6 @@
 
   .header_wrapper {
     background: rgba(0, 0, 0, 0.252);
-
   }
 
   .header_top {
@@ -14,14 +15,13 @@
     justify-content: space-between;
   }
 
-  .header_bottom_menu {
-  }
+
 
   .phoneNumber {
     line-height: 48px;
     font-size: 15px;
     color: #fff;
-    opacity: .60;
+    opacity: .70;
     font-family: "Open Sans", sans-serif;
     letter-spacing: .45px;
     margin-right: 22px;
@@ -32,7 +32,7 @@
     line-height: 48px;
     font-size: 15px;
     color: #fff;
-    opacity: .60;
+    opacity: .70;
     font-family: "Open Sans", sans-serif;
     letter-spacing: .45px;
     margin-left: 5px;
@@ -43,5 +43,41 @@
     top: 25%;
     display: flex;
     justify-content: space-between;
+  }
+
+  .logo {
+    width: 4.1%;
+    filter: brightness(80%);
+    
+  }
+
+  .logo_text_pansion {
+    font-size: 30px;
+    color: white;
+    font-family: "Montserrat";
+    font-weight: bold;
+    opacity: 1;
+    padding-right: 5px;
+  }
+
+  .logo_text_villaanja {
+    font-size: 30px;
+    color: white;
+    font-family: "Montserrat";
+    opacity: .70;
+  }
+
+  .logo_text_wrapper {
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+    margin-left: 1%;
+  }
+
+  .image_logo_wrapper {
+    display: flex;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+
   }
 

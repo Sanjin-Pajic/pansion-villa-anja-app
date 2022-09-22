@@ -17,13 +17,21 @@ export default function Header() {
                 </div>
                 <div className="header_float_right">
                     <div className="icon_container">
-                        <FacebookIcon style={{color: 'rgb(175, 168, 162)', fontSize: "21px"}}/>
-                        <InstagramIcon style={{color: 'rgb(175, 168, 162)', fontSize: "21px", marginLeft:"15px"}}/>
+                        <FacebookIcon style={{color: '#fff', fontSize: "21px", opacity: ".70"}}/>
+                        <InstagramIcon style={{color: '#fff', fontSize: "21px", marginLeft:"15px", opacity: ".70"}}/>
 
                     </div>
                 </div>
             </div>
-            <div className="header_bottom_menu"></div>
+            <div className="header_bottom_menu">
+                <div className="image_logo_wrapper">
+                <img src="https://cdn-icons-png.flaticon.com/512/2303/2303955.png" className="logo"></img>
+                <div className="logo_text_wrapper">
+                <span className="logo_text_pansion">Pansion</span>
+                <p className="logo_text_villaanja">Villa Anja</p>
+                </div>
+                </div>
+            </div>
         </header>
         </div>
         </>
