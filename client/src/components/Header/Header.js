@@ -3,6 +3,7 @@ import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import GoogleIcon from '@mui/icons-material/Google';
 
 
 export default function Header() {
@@ -19,6 +20,7 @@ export default function Header() {
                     <div className="icon_container">
                         <FacebookIcon style={{color: '#fff', fontSize: "21px", opacity: ".70"}}/>
                         <InstagramIcon style={{color: '#fff', fontSize: "21px", marginLeft:"15px", opacity: ".70"}}/>
+                        <GoogleIcon style={{color: '#fff', fontSize: "21px", opacity: ".70", marginLeft:"15px"}}/>
 
                     </div>
                 </div>
@@ -31,6 +33,18 @@ export default function Header() {
                 <p className="logo_text_villaanja">Villa Anja</p>
                 </div>
                 </div>
+                <nav className="navigation">
+                    <ul className="ul-navigation">
+                        <li>
+                            <a>Home</a>
+                            <a>Home</a>
+                            <a>Home</a>
+                            <a>Home</a>
+                            <a>Home</a>
+
+                        </li>
+                    </ul>
+                </nav>
             </div>
         </header>
         </div>

@@ -46,7 +46,7 @@
   }
 
   .logo {
-    width: 4.1%;
+    width: 4.6%;
     filter: brightness(80%);
     
   }
@@ -81,3 +81,26 @@
 
   }
 
+  .header_bottom_menu {
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+  }
+
+  .ul-navigation {
+    list-style: none;
+  }
+
+  nav li a {
+    background: transparent;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    padding: 0px;
+    letter-spacing: .45px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
