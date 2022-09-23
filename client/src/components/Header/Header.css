@@ -49,6 +49,7 @@
     width: 35px;
     filter: brightness(80%);
     align-self: center;
+    cursor: pointer;
   }
 
   .logo_text_pansion {
@@ -73,6 +74,7 @@
     margin-bottom: auto;
     display: flex;
     margin-left: 1%;
+    cursor: pointer;
   }
 
   .image_logo_wrapper {
@@ -131,6 +133,8 @@
     margin-left: 22px;
   }
 
+
+  
   .btnBookNow {
     background-color: rgb(204, 130, 0);
     width: 139px;
@@ -143,6 +147,17 @@
     border: 2px solid rgb(204, 130, 0);
     margin-left: 12px;
   }
+  .workHours:hover {
+    opacity: 1;
+  }
+
+  .phoneNumber:hover {
+    opacity: 1;
+  }
+
+  .emailInfo:hover {
+    opacity: 1;
+  }
 
   .btnBookNow:hover {
     color:white;
@@ -150,3 +165,4 @@
     border: none;
     cursor: pointer;
   }
+
