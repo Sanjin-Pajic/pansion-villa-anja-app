@@ -4,12 +4,5 @@
   box-sizing: border-box;
 }
 
-.App {
-  background-image: url(./img/image.png);
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-position: center center;
-  height: 115vh;
-  
-}
+
 

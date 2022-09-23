@@ -36,3 +36,23 @@
         -0.03em 0 black,
         0 -0.03em black;
 }
+
+.btnReserveNow {
+    margin: 2.5% 0% 0% 11%;
+    height: 50px;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    background-color: rgb(204, 130, 0);
+    color: white;
+    font-size: 16px;
+    border: 2px solid rgb(204, 130, 0);
+    width: 180px;
+    border-radius:6px;
+}
+
+.btnReserveNow:hover {
+    background-color: rgba(204, 129, 0, 0.727);
+    border: none;
+
+}
