@@ -6,7 +6,7 @@
   }
 
   .header_wrapper {
-    background: rgba(0, 0, 0, 0.252);
+    background: rgba(0, 0, 0, 0.39);
   }
 
   .header_top {
@@ -46,13 +46,13 @@
   }
 
   .logo {
-    width: 4.6%;
+    width: 5.9%;
     filter: brightness(80%);
-    
+    align-self: center;
   }
 
   .logo_text_pansion {
-    font-size: 30px;
+    font-size: 32px;
     color: white;
     font-family: "Montserrat";
     font-weight: bold;
@@ -61,7 +61,7 @@
   }
 
   .logo_text_villaanja {
-    font-size: 30px;
+    font-size: 32px;
     color: white;
     font-family: "Montserrat";
     opacity: .70;
@@ -78,15 +78,20 @@
     display: flex;
     padding-top: 1.5%;
     padding-bottom: 1.5%;
+    width: 49%;
 
   }
 
   .header_bottom_menu {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding-top: 1%;
     padding-bottom: 1%;
 
   }
+
+
 
   .ul-navigation {
     list-style: none;
@@ -103,4 +108,24 @@
     letter-spacing: .45px;
     margin-top: auto;
     margin-bottom: auto;
+  }
+
+  ul li a {
+    padding: 16px;
+  }
+
+  ul li a:hover {
+    color: rgb(204, 130, 0);
+    cursor: pointer;
+    
+  }
+
+  .workHours {
+    line-height: 48px;
+    font-size: 15px;
+    color: #fff;
+    opacity: .70;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .45px;
+    margin-left: 22px;
   }

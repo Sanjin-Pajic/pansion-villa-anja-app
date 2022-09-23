@@ -4,6 +4,7 @@ import EmailIcon from '@mui/icons-material/Email';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import GoogleIcon from '@mui/icons-material/Google';
+import WatchLaterIcon from '@mui/icons-material/WatchLater';
 
 
 export default function Header() {
@@ -15,6 +16,7 @@ export default function Header() {
                 <div className="header_float_left">
                 <a className="phoneNumber"> <PhoneIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/>   + (387) 62 339 318</a>
                 <a className="emailInfo"><EmailIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/>    sanelpajic006@gmail.com</a>
+                <a className="workHours"><WatchLaterIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/> Mon - Sun 00-24:00</a>
                 </div>
                 <div className="header_float_right">
                     <div className="icon_container">
@@ -37,10 +39,10 @@ export default function Header() {
                     <ul className="ul-navigation">
                         <li>
                             <a>Home</a>
-                            <a>Home</a>
-                            <a>Home</a>
-                            <a>Home</a>
-                            <a>Home</a>
+                            <a>Rooms & Suites</a>
+                            <a>Offers</a>
+                            <a>About us</a>
+                            <a>Contact us</a>
 
                         </li>
                     </ul>
