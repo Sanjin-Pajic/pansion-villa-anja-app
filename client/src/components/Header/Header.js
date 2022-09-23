@@ -43,7 +43,7 @@ export default function Header() {
                             <a>Offers</a>
                             <a>About us</a>
                             <a>Contact us</a>
-
+                            <button className="btnBookNow">Book now</button>
                         </li>
                     </ul>
                 </nav>
