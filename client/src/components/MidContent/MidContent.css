@@ -17,14 +17,14 @@
 .MidContent {
     margin: 6% 11% 0% 11%;
     width: 35%;
-    border-left: 2px solid rgba(254, 254, 254, 0.438);
+    border-left: 2px solid rgba(254, 254, 254, 0.292);
     border-radius: 10px;
     background: linear-gradient(90deg, rgba(128,128,128,0.7447128509606968) 0%, rgba(128,128,128,0) 90%);
 
 }
 
 .MidContent_subtext {
-    margin-top: 3%;
+    margin-top: 4%;
     font-weight: bold;
     font-size: 23px;
     color: white;
