@@ -6,8 +6,8 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import GoogleIcon from '@mui/icons-material/Google';
 import WatchLaterIcon from '@mui/icons-material/WatchLater';
 
-
 export default function Header() {
+    var logo = require("../../img/roof-icon-removebg-preview.png");
     return (
         <>
         <div className="header_wrapper">
@@ -29,7 +29,7 @@ export default function Header() {
             </div>
             <div className="header_bottom_menu">
                 <div className="image_logo_wrapper">
-                <img src="https://cdn-icons-png.flaticon.com/512/2303/2303955.png" className="logo"></img>
+                <img src={logo} className="logo"></img>
                 <div className="logo_text_wrapper">
                 <span className="logo_text_pansion">Pansion</span>
                 <p className="logo_text_villaanja">Villa Anja</p>
