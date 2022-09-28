@@ -5,7 +5,7 @@
     font-size: 60px;
     color: white;
     font-family: Montserrat;
-    font-weight: bold;
+    font-weight: 600;
     border-radius: 10px;
 }
 
@@ -25,16 +25,16 @@
 
 .MidContent_subtext {
     margin-top: 4%;
-    font-weight: bold;
+    font-weight: 500;
     font-size: 23px;
     color: white;
     font-family: Montserrat;
     margin-left: 0.5%;
     text-shadow:
-        0.03em 0 black,
-        0 0.03em black,
-        -0.03em 0 black,
-        0 -0.03em black;
+        0.015em 0 black,
+        0 0.015em black,
+        -0.015em 0 black,
+        0 -0.015em black;
 }
 
 .btnReserveNow {
@@ -42,7 +42,7 @@
     height: 50px;
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
-    font-weight: bold;
+    font-weight: 600;
     background-color: rgb(204, 130, 0);
     color: white;
     font-size: 16px;

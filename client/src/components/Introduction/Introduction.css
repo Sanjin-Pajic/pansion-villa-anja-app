@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 
 
 .introduction_wrapper {
     margin: 6% 11% 0% 11%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .introduction_title {
@@ -40,9 +44,55 @@
     font-size: 18px;
     color: #363636;
     font-family: "Montserrat", sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     text-transform: uppercase;
     padding-bottom: 20px;
     letter-spacing: .54px;
+}
+
+.introduction_long_paragraph {
+    font-size: 15px;
+    line-height: 26px;
+    font-family: "Open Sans", sans-serif;
+    color: #898989;
+    letter-spacing: .225px;
+    padding-bottom: 30px;
+}
+
+.introduction_leftside {
+    width: 50%;
+}
+
+.introduction-rightside {
+    width: 50%;
+}
+
+.introduction-img {
+    float: left;
+    max-height: 470px;
+    object-fit: contain;
+}
+
+.btnMoreAboutUs {
+    display: inline-block;
+    border: 1px solid #8e8e8e;
+    background-color: transparent;
+    padding: 0px 27px;
+    line-height: 46px;
+    color: #000;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .45px;
+    font-weight: 600;
+    position: relative;
+    z-index: 2;
+}
+
+.btnMoreAboutUs:hover {
+    color: white;
+    background-color: rgb(204, 130, 0);
+    cursor: pointer;
 
 }
