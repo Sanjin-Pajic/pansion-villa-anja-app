@@ -5,7 +5,7 @@
 
 
 .introduction_wrapper {
-    margin: 6% 11% 0% 11%;
+    margin: 6% 11% 6% 11%;
     display: flex;
     justify-content: space-between;
 }
@@ -27,6 +27,7 @@
 
 .introduction_title_borderbottom {
     font-size: 20px;
+    letter-spacing: -0.2px
 }
 
 .introduction_italic_text {
