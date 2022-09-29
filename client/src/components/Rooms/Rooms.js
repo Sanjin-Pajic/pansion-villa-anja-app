@@ -5,7 +5,7 @@ export default function Rooms() {
     return (
         <div className="rooms_background">
         <div className="rooms_top">
-            <p className="rooms_header_text"><span className="rooms_highlighted_text">Explore</span> our rooms</p>
+            <p className="rooms_header_text"><span className="rooms_highlighted_text">Explore</span> our rooms <br></br> <span className="rooms-subtext">Pick one of our offers</span></p>
             <button className="btnViewRooms">View all rooms</button>
         </div>
         <div className="rooms-cards">

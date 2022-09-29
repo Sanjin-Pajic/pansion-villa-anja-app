@@ -8,6 +8,10 @@
     font-weight: 600;
     cursor:default;
     border-radius: 10px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .MidContent:hover {
@@ -33,6 +37,10 @@
     color: white;
     font-family: Montserrat;
     margin-left: 0.5%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
     text-shadow:
         0.015em 0 black,
         0 0.015em black,

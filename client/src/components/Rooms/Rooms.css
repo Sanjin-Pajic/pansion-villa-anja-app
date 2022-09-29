@@ -44,3 +44,13 @@
     font-weight: 600;
     width: 210px;
 }
+
+.rooms-subtext {
+    font-size: 14px;
+    color: #a0a0a0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .42px;
+    padding-top: 10px;
+}

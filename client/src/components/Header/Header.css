@@ -62,6 +62,10 @@
     opacity: 1;
     padding-right: 5px;
     padding-left: 8px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
   }
 
   .logo_text_villaanja {
@@ -69,6 +73,10 @@
     color: white;
     font-family: "Montserrat";
     opacity: .70;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
   }
 
   .logo_text_wrapper {
