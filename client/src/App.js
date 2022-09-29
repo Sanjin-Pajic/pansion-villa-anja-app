@@ -6,9 +6,6 @@ import Rooms from "./components/Rooms/Rooms";
 import {useEffect} from "react";
 
 function App() {
-  useEffect(() => {
-    alert("WARNING: Responsive design not yet implemented.")
-  }, []);
   return (
   <div className="App">
     <Home/>
