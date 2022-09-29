@@ -6,12 +6,14 @@
     color: white;
     font-family: Montserrat;
     font-weight: 600;
+    cursor:default;
     border-radius: 10px;
 }
 
 .MidContent:hover {
     background-color: rgba(128, 128, 128, 0.26);
     border-radius: 10px;
+
 }
 
 .MidContent {
@@ -27,6 +29,7 @@
     margin-top: 4%;
     font-weight: 500;
     font-size: 23px;
+    cursor:default;
     color: white;
     font-family: Montserrat;
     margin-left: 0.5%;
@@ -49,6 +52,7 @@
     border: 2px solid rgb(204, 130, 0);
     width: 180px;
     border-radius:6px;
+    cursor: pointer;
 }
 
 .btnReserveNow:hover {

@@ -15,7 +15,7 @@ export default function Header() {
             <div className="header_top">
                 <div className="header_float_left">
                 <a className="phoneNumber"> <PhoneIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/>   + (387) 62 339 318</a>
-                <a className="emailInfo"><EmailIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/>    sanelpajic006@gmail.com</a>
+                <a className="emailInfo"><EmailIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/>    sanelpajic06@gmail.com</a>
                 <a className="workHours"><WatchLaterIcon style={{color: 'white', verticalAlign: 'middle', display: 'inline-flex', fontSize: "19px", marginRight:"3px"}}/> Mon - Sun 00-24:00</a>
                 </div>
                 <div className="header_float_right">
