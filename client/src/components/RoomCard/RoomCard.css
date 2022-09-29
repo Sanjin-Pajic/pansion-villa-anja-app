@@ -1,0 +1,52 @@
+.room-card-img {
+    max-width: 25vw;
+}
+
+.room-card-top {
+    padding-top: 15px;
+}
+
+
+.room-card-bottom {
+    background-color: white;
+    max-width: 25vw;
+    box-shadow: 0px 3px 35px 0px rgb(0 0 0 / 9%);
+    padding-bottom: 37px;
+}
+
+.room-card-name {
+    font-family: Montserrat;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 27px;
+    padding-left: 30px;
+    letter-spacing: .60px;
+    color: #242424;
+}
+
+.room-card-description {
+    color: #898989;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .30px;
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 9px;
+}
+
+.room-card-border {
+    opacity: 0.5;
+}
+
+.room-card-price {
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 23px;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+.rooms-per-person {
+    color: #a0a0a0;
+    font-size: 16px;
+}
