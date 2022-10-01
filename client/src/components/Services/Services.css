@@ -82,3 +82,12 @@
     padding-top: 30px;
     padding-bottom: 10px;
 }
+
+.services_bullet2 {
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7%;
+}
+
