@@ -7,13 +7,27 @@
 }
 
 .services {
-    margin: 0% 11% 0% 11%;
+    margin: 0% 11% 0% 11%;  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .services_header {
     width: 22%;
     padding-top: 7%;
 }
+
+.service_bullet {
+    width: 40%;
+    margin-top: 15%;
+    background-color: red;
+}
+
+.bullet1_img{
+    max-width: 30%;
+}
+
 
 .services_header_text {
     font-size: 32px;
@@ -32,4 +46,26 @@
     font-family: "Open Sans", sans-serif;
     font-weight: normal;
     padding-bottom: 15px;
+}
+
+.link_view_all_services {
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    letter-spacing: .21px;
+    color: rgb(204, 130, 0);
+    text-transform: uppercase;
+    text-decoration: underline;
+    line-height: 47px;
+}
+
+.bullet1_header_text {
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: .30px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
