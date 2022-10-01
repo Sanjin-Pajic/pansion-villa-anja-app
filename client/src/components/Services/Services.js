@@ -1,5 +1,6 @@
 import { requirePropFactory } from "@mui/material";
 import "./Services.css";
+import BakeryDiningIcon from '@mui/icons-material/BakeryDining';
 
 
 export default function Services() {
@@ -11,20 +12,12 @@ export default function Services() {
                 <h1 className="services_subtext">quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam.</h1>
                 <span className="link_view_all_services">View all services</span>
                 </div>
-                <div className="services_bullet">
-                    <img className="bullet1_img" src={require("../../img/breakfast_clipart.png")}></img>
+                <div className="services_bullet1">
+                    <BakeryDiningIcon style={{color: "orange"}} transform="scale(4)"/>
                     <p className="bullet1_header_text">Breakfast</p>
-                </div>
-                <div className="services_bullet">
-                    <img className="bullet1_img" src={require("../../img/breakfast_clipart.png")}></img>
-                    <p className="bullet1_header_text">Breakfast</p>
-                </div>
-                <div className="services_bullet">
-                    <img className="bullet1_img" src={require("../../img/breakfast_clipart.png")}></img>
-                    <p className="bullet1_header_text">Breakfast</p>
-                </div>
+                    <p className="bullet1_subtext">Incidunt ut labore et dolore magnam aliquam quaerat volup tatem. Utad minima.</p>
 
-                
+                </div>
             </div>
         </div>
 
