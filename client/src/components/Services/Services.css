@@ -1,0 +1,35 @@
+.servicesWrapper {
+    background-image: url("../../img/services_background_drk.png");
+    background-attachment:fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 400px;
+}
+
+.services {
+    margin: 0% 11% 0% 11%;
+}
+
+.services_header {
+    width: 22%;
+    padding-top: 7%;
+}
+
+.services_header_text {
+    font-size: 32px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    letter-spacing: .96px;
+    padding-bottom: 17px;
+    text-transform: uppercase;
+    padding-top: 7%;
+}
+
+.services_subtext {
+    font-size: 15px;
+    color: #b8b8bf;
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    padding-bottom: 15px;
+}
