@@ -3,7 +3,7 @@
     background-attachment:fixed;
     background-size: cover;
     width: 100vw;
-    height: 400px;
+    padding-bottom: 100px;
 }
 
 .services {
@@ -15,30 +15,24 @@
 
 .services_header {
     width: 25%;
-    padding-top: 7%;
+    padding-top: 6%;
 }
 
-.services_bullet1 {
+.services_bullet {
     width: 22%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 7%;
+    margin-top: 10%;
 }
 
-.bullet1_subtext {
+.bullet_subtext {
     font-size: 14px;
     line-height: 28px;
     color: #b8b8bf;
     font-family: "Open Sans", sans-serif;
     font-weight: 600;
     text-align: center;
-}
-
-
-
-.bullet1_img{
-    max-width: 27%;
 }
 
 
@@ -72,7 +66,7 @@
     line-height: 47px;
 }
 
-.bullet1_header_text {
+.bullet_header_text {
     font-size: 20px;
     color: #fff;
     letter-spacing: .30px;
@@ -83,11 +77,5 @@
     padding-bottom: 10px;
 }
 
-.services_bullet2 {
-    width: 22%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 7%;
-}
+
 
