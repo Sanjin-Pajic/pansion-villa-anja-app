@@ -19,7 +19,7 @@
 }
 
 .introduction_title_highlighted {
-    color: rgb(204, 130, 0);
+    color: #ffb606;
 }
 
 
@@ -93,7 +93,8 @@
 
 .btnMoreAboutUs:hover {
     color: white;
-    background-color: rgb(204, 130, 0);
+    border: 1px solid #ffb606;
+    background-color: #ffb606;
     cursor: pointer;
 
 }

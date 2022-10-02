@@ -15,19 +15,19 @@ export default function Services() {
                 <span className="link_view_all_services">View all services</span>
                 </div>
                 <div className="services_bullet">
-                    <LocalParkingIcon style={{color: "rgb(204, 130, 0)"}} transform="scale(4)"/>
+                    <LocalParkingIcon style={{color: "#ffb606"}} transform="scale(4)"/>
                     <p className="bullet_header_text">Free Parking</p>
                     <p className="bullet_subtext">Incidunt ut labore et dolore magnam aliquam quaerat volup tatem. Utad minima.</p>
 
                 </div>
                 <div className="services_bullet">
-                    <WifiIcon style={{color: "rgb(204, 130, 0)"}} transform="scale(4)"/>
+                    <WifiIcon style={{color: "#ffb606"}} transform="scale(4)"/>
                     <p className="bullet_header_text">Free Wi-fi</p>
                     <p className="bullet_subtext">Incidunt ut labore et dolore magnam aliquam quaerat volup tatem. Utad minima.</p>
 
                 </div>
                 <div className="services_bullet">
-                    <BakeryDiningIcon style={{color: "rgb(204, 130, 0)"}} transform="scale(4)"/>
+                    <BakeryDiningIcon style={{color: "#ffb606"}} transform="scale(4)"/>
                     <p className="bullet_header_text">Breakfast</p>
                     <p className="bullet_subtext">Incidunt ut labore et dolore magnam aliquam quaerat volup tatem. Utad minima.</p>
 

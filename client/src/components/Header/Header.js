@@ -31,7 +31,7 @@ export default function Header() {
             <div className="header_bottom_menu">
                 <div className="image_logo_wrapper">
                 {/*<img src={logo} className="logo"></img>*/}
-                <BedroomChildIcon style={{color: "rgb(204, 130, 0)", marginLeft:"7px"}} transform="scale(2)"/>
+                <BedroomChildIcon style={{color: "#ffb606", marginLeft:"7px"}} transform="scale(1.8)"/>
                 <div className="logo_text_wrapper">
                 <span className="logo_text_pansion">  Pansion</span>
                 <p className="logo_text_villaanja">Villa Anja</p>

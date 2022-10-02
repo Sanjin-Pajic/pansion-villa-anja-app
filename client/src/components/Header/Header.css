@@ -55,7 +55,7 @@
   }
 
   .logo_text_pansion {
-    font-size: 32px;
+    font-size: 30px;
     color: white;
     font-family: "Montserrat";
     font-weight: 600;
@@ -69,7 +69,7 @@
   }
 
   .logo_text_villaanja {
-    font-size: 32px;
+    font-size: 30px;
     color: white;
     font-family: "Montserrat";
     opacity: .70;
@@ -145,7 +145,7 @@
 
   
   .btnBookNow {
-    background-color: rgb(204, 130, 0);
+    background-color: #ffb606;
     width: 139px;
     height: 40px;
     font-size: 15px;
@@ -153,7 +153,7 @@
     letter-spacing: .35px;
     font-family: "Montserrat", sans-serif;
     font-weight: bold;
-    border: 2px solid rgb(204, 130, 0);
+    border: 2px solid #ffb606;
     margin-left: 12px;
   }
   .workHours:hover {
@@ -169,9 +169,9 @@
   }
 
   .btnBookNow:hover {
-    color:white;
-    background-color: rgba(204, 129, 0, 0.727);
-    border: none;
+    color: #ffb406;
+    background-color: transparent;
+    border: 2px solid #ffb606;
     cursor: pointer;
   }
 

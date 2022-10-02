@@ -54,17 +54,17 @@
     text-transform: uppercase;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-    background-color: rgb(204, 130, 0);
+    background-color: transparent;
     color: white;
     font-size: 16px;
-    border: 2px solid rgb(204, 130, 0);
+    border: 2px solid white;
     width: 180px;
-    border-radius:6px;
     cursor: pointer;
+    
 }
 
 .btnReserveNow:hover {
-    background-color: rgba(204, 129, 0, 0.727);
+    background-color: #ffb406;
     border: none;
-
+    opacity: 1;
 }
