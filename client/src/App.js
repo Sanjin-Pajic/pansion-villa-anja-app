@@ -16,8 +16,7 @@ function App() {
     <BookTable/>
     <Introduction/>
     <Rooms/>
-    <Services/> {//fix overflow
-    }
+    <Services/>
     <Gallery/>
     <Introduction/>
   </div>
