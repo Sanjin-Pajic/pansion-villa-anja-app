@@ -5,6 +5,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import GoogleIcon from '@mui/icons-material/Google';
 import WatchLaterIcon from '@mui/icons-material/WatchLater';
+import BedroomChildIcon from '@mui/icons-material/BedroomChild';
 
 export default function Header() {
     var logo = require("../../img/roof-icon-removebg-preview.png");
@@ -29,9 +30,10 @@ export default function Header() {
             </div>
             <div className="header_bottom_menu">
                 <div className="image_logo_wrapper">
-                <img src={logo} className="logo"></img>
+                {/*<img src={logo} className="logo"></img>*/}
+                <BedroomChildIcon style={{color: "rgb(204, 130, 0)", marginLeft:"7px"}} transform="scale(2)"/>
                 <div className="logo_text_wrapper">
-                <span className="logo_text_pansion">Pansion</span>
+                <span className="logo_text_pansion">  Pansion</span>
                 <p className="logo_text_villaanja">Villa Anja</p>
                 </div>
                 </div>

@@ -80,10 +80,8 @@
   }
 
   .logo_text_wrapper {
-    margin-top: auto;
-    margin-bottom: auto;
     display: flex;
-    margin-left: 1%;
+    margin-left: 2%;
     cursor: pointer;
   }
 
@@ -92,6 +90,7 @@
     padding-top: 1.5%;
     padding-bottom: 1.5%;
     width: 40%;
+    align-items: center;
 
   }
 
