@@ -2,7 +2,7 @@ import "./RoomCard.css";
 
 export default function RoomCard(props) {
     return (
-        <div classname="room-card">
+        <div className="room-card">
             <div className="room-card-top">
             <img className="room-card-img" src={props.img}></img>
             </div>

@@ -1,0 +1,38 @@
+.galleryWrapper{
+    background-color: #ffb606;
+    width: 100%;
+    padding-bottom: 60px;
+}
+
+.gallery-header-text {
+    text-align: center;
+    padding-top: 100px;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    color: #242424;
+}
+
+.gallery-border {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 25px;
+}
+
+.gallery-highlighted-word {
+    color: white;
+}
+
+.gallery-subtext {
+    text-align: center;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .48px;
+    color: #242424;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    font-style: italic;
+}
+
+.gallery-subtext-highlighted-word {
+    color: white;
+}

@@ -1,0 +1,10 @@
+.gallery-carousel {
+    height: 77vh;
+    border-radius: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.gallery-carousel > img {
+    align-self: center;
+}
