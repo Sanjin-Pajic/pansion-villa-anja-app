@@ -18,7 +18,9 @@ function App() {
     <Rooms/>
     <Services/>
     <Gallery/>
-    <Introduction/>
+    <Introduction/> {
+      //testing purposes only
+    }
   </div>
   )
 }
