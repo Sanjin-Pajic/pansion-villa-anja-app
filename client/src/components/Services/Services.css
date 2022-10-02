@@ -28,11 +28,12 @@
 
 .bullet_subtext {
     font-size: 14px;
-    line-height: 28px;
+    line-height: 24px;
     color: #b8b8bf;
     font-family: "Open Sans", sans-serif;
     font-weight: 600;
     text-align: center;
+    padding-top: 3.5px;
 }
 
 
@@ -53,6 +54,7 @@
     font-family: "Open Sans", sans-serif;
     font-weight: normal;
     padding-bottom: 15px;
+    line-height: 24px;
 }
 
 .link_view_all_services {
@@ -73,8 +75,10 @@
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 10px;
+    
+
 }
 
 

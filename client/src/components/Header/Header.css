@@ -81,7 +81,7 @@
 
   .logo_text_wrapper {
     display: flex;
-    margin-left: 2%;
+    margin-left: 1.5%;
     cursor: pointer;
   }
 
@@ -127,7 +127,7 @@
   }
 
   ul li a:hover {
-    color: rgb(204, 130, 0);
+    color: #ffb606;
     cursor: pointer;
     
   }

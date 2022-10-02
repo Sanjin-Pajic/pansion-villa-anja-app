@@ -27,7 +27,7 @@ export default function Services() {
 
                 </div>
                 <div className="services_bullet">
-                    <BakeryDiningIcon style={{color: "#ffb606"}} transform="scale(4)"/>
+                    <BakeryDiningIcon style={{color: "#ffb606"}} transform="scale(5.9)"/>
                     <p className="bullet_header_text">Breakfast</p>
                     <p className="bullet_subtext">Incidunt ut labore et dolore magnam aliquam quaerat volup tatem. Utad minima.</p>
 
