@@ -1,4 +1,15 @@
-<h1>Work in progress</h1>
+<h1>Fullstack app, work in progress</h1>
 <hr>
 
-Fullstack MERN application
+Technologies:
+MongoDB, Express, React.js, Node.js
+<hr>
+
+Libraries:
+Mongoose,
+Material-UI,
+Material-UI Icons,
+react-datepicker,
+react-icons,
+react-multi-carousel
+
