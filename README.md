@@ -9,7 +9,6 @@ Libraries:
 Mongoose,
 Material-UI,
 Material-UI Icons,
-react-router-dom,
 react-datepicker,
 react-icons,
 react-multi-carousel
