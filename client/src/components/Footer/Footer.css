@@ -1,0 +1,25 @@
+.footer-top-wrapper {
+    background-color: #2a292b;
+    height: 30vh;
+}
+
+.footer-bottom-wrapper {
+    background-color: #222122;
+}
+
+.footer-bottom {
+    display: flex;
+    margin: 0% 11% 0% 11%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-bottom > p {
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    color: #757575;
+    letter-spacing: .5px;
+    font-weight: 500;
+    line-height: 1.1;
+    padding: 26px 0 26px 0;
+}

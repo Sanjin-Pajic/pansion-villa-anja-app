@@ -1,5 +1,4 @@
 import React from "react";
-
 import "./App.css";
 import Home from "./components/Home/Home";
 import BookTable from "./components/BookTable/BookTable";
@@ -7,9 +6,7 @@ import Introduction from "./components/Introduction/Introduction";
 import Rooms from "./components/Rooms/Rooms";
 import Services from "./components/Services/Services";
 import Gallery from "./components/Gallery/Gallery";
-import Carousel from "./components/Carousel/Carousel";
-
-import {useEffect} from "react";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -23,6 +20,7 @@ function App() {
     <Introduction/> {
       //testing purposes only
     }
+    <Footer/>
   </div>
   )
 }
