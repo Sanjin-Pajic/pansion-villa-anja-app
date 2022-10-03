@@ -1,3 +1,4 @@
+import React from "react";
 import "./RoomCard.css";
 
 export default function RoomCard(props) {

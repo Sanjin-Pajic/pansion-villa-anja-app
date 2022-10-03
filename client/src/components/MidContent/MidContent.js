@@ -1,3 +1,5 @@
+import React from "react";
+
 import "./MidContent.css";
 
 export default function MidContent () {

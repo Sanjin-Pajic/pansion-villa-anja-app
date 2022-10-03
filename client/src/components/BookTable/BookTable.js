@@ -1,3 +1,4 @@
+import React from "react";
 import "./BookTable.css";
 
 export default function BookTable() {

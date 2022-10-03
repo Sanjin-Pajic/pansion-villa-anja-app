@@ -1,3 +1,4 @@
+import React from "react";
 import "./Introduction.css";
 import "../../img/introduction_img.jpg"
 
