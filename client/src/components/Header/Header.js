@@ -31,7 +31,6 @@ export default function Header() {
             </div>
             <div className="header_bottom_menu">
                 <div className="image_logo_wrapper">
-                {/*<img src={logo} className="logo"></img>*/}
                 <BedroomChildIcon style={{color: "#ffb606", marginLeft:"7px", cursor:"pointer"}} transform="scale(1.7)"/>
                 <div className="logo_text_wrapper">
                 <span className="logo_text_pansion">  Pansion</span>
