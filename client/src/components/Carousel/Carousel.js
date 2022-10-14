@@ -62,7 +62,7 @@ export default ()  => {
           swipeable
         >
           <img
-            src="https://scontent.fsjj1-1.fna.fbcdn.net/v/t39.30808-6/306005306_770400800894222_9200875557884604221_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_59lZitmxKsAX9MaDnc&_nc_ht=scontent.fsjj1-1.fna&oh=00_AT9UXbBidJMEufrqOfWkT7OxV9Vm8JLTTK6gFaxW4Sb6lA&oe=633EA622"
+            src="https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/306005306_770400800894222_9200875557884604221_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_BbbYZQTb58AX9VQm_T&_nc_ht=scontent-vie1-1.xx&oh=00_AT8tq_C6WvBnvQWRtqykIZgLCebNfB1ZmJiRJFzfzRDzXA&oe=634E7822"
             style={{
               display: 'block',
               height: '100%',
