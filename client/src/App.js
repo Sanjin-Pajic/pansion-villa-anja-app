@@ -9,6 +9,7 @@ import Gallery from "./components/Gallery/Gallery";
 import Footer from "./components/Footer/Footer";
 import VideoContent from "./components/VideoContent/VideoContent";
 import Quotes from "./components/Quotes/Quotes";
+import Posts from "./components/Posts/Posts";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
     <Services/>
     <Gallery/>
     <Quotes/>
+    <Posts/>
     <VideoContent url = "https://youtu.be/vhwYVhLjr2E?t=16"/>
     <Footer/>
   </div>

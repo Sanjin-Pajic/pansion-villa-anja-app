@@ -1,0 +1,28 @@
+.posts-wrapper {
+    background-color: #f6f6f6;
+}
+
+.posts {
+    margin: 0% 11% 0% 11%;
+    padding: 100px 0 100px 0;
+}
+
+.posts-title {
+    font-size: 32px;
+    line-height: 32px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #242424;
+    letter-spacing: .96px;
+}
+
+.posts-highlighted-word {
+    color: #ffb606;
+}
+
+.posts-post-cards {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
