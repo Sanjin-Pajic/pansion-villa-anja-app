@@ -20,7 +20,7 @@ function App() {
     <Services/>
     <Gallery/>
     <Quotes/>
-    <VideoContent url = "https://www.youtube.com/watch?v=vhwYVhLjr2E&ab_channel=Citiesin4K"/>
+    <VideoContent url = "https://youtu.be/vhwYVhLjr2E?t=16"/>
     <Footer/>
   </div>
   )
