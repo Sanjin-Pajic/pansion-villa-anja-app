@@ -3,6 +3,7 @@
     width: 100%;
 }
 
+
 .gallery-header-text {
     text-align: center;
     padding-top: 130px;
@@ -34,4 +35,10 @@
 
 .gallery-subtext-highlighted-word {
     color: white;
+}
+
+.gallery-subborder {
+    background-color: white;
+    border-bottom: 1px solid #e1e1e1;
+    margin: 2% 11% 0 11%;
 }

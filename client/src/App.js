@@ -7,6 +7,7 @@ import Rooms from "./components/Rooms/Rooms";
 import Services from "./components/Services/Services";
 import Gallery from "./components/Gallery/Gallery";
 import Footer from "./components/Footer/Footer";
+import VideoContent from "./components/VideoContent/VideoContent";
 
 function App() {
   return (
@@ -17,9 +18,7 @@ function App() {
     <Rooms/>
     <Services/>
     <Gallery/>
-    <Introduction/> {
-      //testing purposes only
-    }
+    <VideoContent url = "https://www.youtube.com/watch?v=vhwYVhLjr2E&ab_channel=Citiesin4K"/>
     <Footer/>
   </div>
   )
