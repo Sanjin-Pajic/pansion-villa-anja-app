@@ -10,6 +10,7 @@ import Footer from "./components/Footer/Footer";
 import VideoContent from "./components/VideoContent/VideoContent";
 import Quotes from "./components/Quotes/Quotes";
 import Posts from "./components/Posts/Posts";
+import Newsletter from "./components/Newsletter/Newsletter";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
     <Quotes/>
     <Posts/>
     <VideoContent url = "https://youtu.be/vhwYVhLjr2E?t=16"/>
+    <Newsletter />
     <Footer/>
   </div>
   )

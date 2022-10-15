@@ -1,0 +1,44 @@
+.newsletter-wrapper {
+
+}
+
+.newsletter {
+    margin: 0% 12% 0% 12%;
+    padding: 80px 0 80px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.newsletter-text {
+    width: 35%;
+    font-size: 16px;
+    line-height: 27px;
+    letter-spacing: .70px;
+    font-family: "Open Sans", sans-serif;
+    color: #898989e0;
+    font-weight: 300;
+    margin-left: 25px;
+}
+
+.newsletter-email-input {
+    width: 45%;
+    font-size: 16px;
+    box-shadow: none;
+    outline: none;
+    padding: 0px 30px;
+    background: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .45px;
+    color: #898989;
+    border: 1px solid #ccc;
+}
+
+.newsletter-subscription-button {
+    background-color: #ffb606;
+    border: 1px solid #ffb606;
+    color: white;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    width: 175px;
+    font-weight: 600;
+}
