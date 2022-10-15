@@ -1,0 +1,42 @@
+.quotes {
+    margin: 100px 11% 100px 11%;
+    display: flex;
+}
+
+.quote-text {
+    width: 880px;
+    margin-left: 80px;
+    line-height: 35px;
+    color: #898989;
+    font-family: "Lato", sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    letter-spacing: .66px;
+}
+
+.quotes > img {
+    width: 130px;
+    border-radius: 100%;
+    align-self: center;
+    margin-top: -100px !important;
+}
+
+
+.quoted-by {
+    margin: 40px 0 0 80px;
+    font-family: Montserrat;
+    color:#ffb606;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: .54px;
+}
+
+.quoted-by-title {
+    font-size: 18px;
+    color: #849bb3;
+    font-family: "Lato", sans-serif;
+    font-style: italic;
+    letter-spacing: .54px;
+    margin: 10px 0 0 80px;
+}
