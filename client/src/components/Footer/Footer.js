@@ -20,10 +20,23 @@ export default function Footer() {
                             </li>
                             <li className="footer-lists-extralinks">
                                 <p className="footer-lists-title">Extra links <br></br><span className="footer-border">____</span></p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
                             </li>
                             <li className="footer-lists-services">Our services <br></br> <span className="footer-border">____</span>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
                             </li>
-                            <li className="footer-lists-temp">templist <br></br> <span className="footer-border">____</span></li>
+                            <li className="footer-lists-temp">templist <br></br> <span className="footer-border">____</span>
+                            <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                                <p className="footer-link">- Sample link</p>
+                            </li>
                         </ul>
                     </div>
                 </div>
