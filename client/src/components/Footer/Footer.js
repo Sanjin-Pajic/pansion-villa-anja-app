@@ -31,7 +31,7 @@ export default function Footer() {
                                 <p className="footer-link">- Sample link</p>
                                 <p className="footer-link">- Sample link</p>
                             </li>
-                            <li className="footer-lists-temp">templist <br></br> <span className="footer-border">____</span>
+                            <li className="footer-lists-social-media">Social media<br></br> <span className="footer-border">____</span>
                             <p className="footer-link">- Sample link</p>
                                 <p className="footer-link">- Sample link</p>
                                 <p className="footer-link">- Sample link</p>
