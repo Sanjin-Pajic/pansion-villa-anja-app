@@ -11,6 +11,7 @@ import VideoContent from "./components/VideoContent/VideoContent";
 import Quotes from "./components/Quotes/Quotes";
 import Posts from "./components/Posts/Posts";
 import Newsletter from "./components/Newsletter/Newsletter";
+import StatCounters from "./components/StatCounters/StatCounters";
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
     <Quotes/>
     <Posts/>
     <VideoContent url = "https://youtu.be/vhwYVhLjr2E?t=16"/>
+    {
+    //<StatCounters />
+}
     <Newsletter />
     <Footer/>
   </div>
